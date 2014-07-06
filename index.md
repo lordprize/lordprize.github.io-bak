@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Hauptseite
 ---
 
-Hallo Welt
+Willkommen auf der persönlichen Website von Michael Mattes.
