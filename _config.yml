@@ -1,0 +1,4 @@
+markdown: kramdown
+baseurl: http://micha.elmatt.es
+kramdown:
+    input: GFM
