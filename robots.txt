@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://lordprize.github.io/sitemap.xml 
+Sitemap: http://micha.elmatt.es/sitemap.xml 
